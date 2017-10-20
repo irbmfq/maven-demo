@@ -1,0 +1,2 @@
+# maven-demo
+sample project
